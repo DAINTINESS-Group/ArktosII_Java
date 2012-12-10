@@ -1,0 +1,2 @@
+This source code comes with both data sets and scenarios. 
+In the Scenarios folder, remember to EDIT THE PATH of the data files!!

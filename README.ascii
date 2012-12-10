@@ -1,0 +1,7 @@
+This is the Arktos Execution Engine, as produced by Dimitrios Lampros for his Diploma Thesis, 2012 at Univ. Ioannina. 
+It's main purpose is to allow the DBA to execute an ETL scenario, providing a GUI at the same time.
+The tool is practically the porting to Java of the .NET version produced by A. Karagiannis (execution engine 2007).
+
+We would like to stress that this is a project __still under development__.We would like to to clearly state that we simply cannot support any requests for the maintainance of the code, or clarifications, explanations etc. Morover, we do not assume any responsibility for any side effects of the code (although we cannot think of, or have ever encountered, any). You are free to reuse the following code for academic purposes, provided you give the appropriate citation:
+
+Dimitrios Lampros. A java implementation of an ETL tool.  Diploma Thesis, Dept. of Computer Science, Univ. of Ioannina, 2012.
